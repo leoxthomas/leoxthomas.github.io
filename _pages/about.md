@@ -50,7 +50,169 @@ Research interests include:
 
 # 📝 Publications 
 
+<ul>
+  
+  <li>
+    <strong> Multi-encoder ConvNeXt Network with Smooth Attentional Feature Fusion for Multispectral Semantic Segmentation. Neurocomputing 2026. </strong>
+    <div style="display: inline">
+        <a href="https://doi.org/10.1016/j.neucom.2026.133533"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
 
+  <li>
+    <strong> A Decade of You Only Look Once (YOLO) for Object Detection: A Review. IEEE Access 2025. </strong>
+    <div style="display: inline">
+        <a href="https://doi.org/10.1109/ACCESS.2025.3630988"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> Leveraging U-Net and Selective Feature Extraction for Land Cover Classification Using Remote Sensing Imagery. Scientific Reports 2025. </strong>
+    <div style="display: inline">
+        <a href="https://doi.org/10.1038/s41598-024-84795-1"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> A Comprehensive Analysis of YOLO Architectures for Tomato Leaf Disease Identification. Scientific Reports 2025. </strong>
+    <div style="display: inline">
+        <a href="https://doi.org/10.1038/s41598-025-11064-0"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> Multispectral Semantic Segmentation for Land Cover Classification: An Overview. IEEE JSTARS 2024. </strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> A Study of ConvNeXt Architectures for Enhanced Image Captioning. IEEE Access 2024. </strong>
+    <div style="display: inline">
+        <a href="https://doi.org/10.1109/ACCESS.2024.3356551"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, E. Casas, C. Romero, F. Rivas-Echeverría, M. E. Morocho-Caymacela.</i></div>
+  </li>
+
+  <li>
+    <strong> A Parameter-efficient Convolutional Approach for Camouflaged Weed Detection in Multispectral Aerial Imagery. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2603.06655"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2603.13357"> [paper]</a>
+    </div>
+    <div><i>P. Suárez, <strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href="https://arxiv.org/abs/2602.08112"> [paper]</a>
+    </div>
+    <div><i>S. Paheding, A. Reyes-Angulo, <strong>L. T. Ramos</strong>, A. D. Sappa, A. Rajaneesh, H. P. B., K. S. Kumar, T. Oommen.</i></div>
+  </li>
+
+  <li>
+    <strong> 1st Mars Landslide Segmentation Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. Reyes-Angulo, S. Paheding, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> 5th Multi-modal Aerial View Imagery Challenge: Classification - PBVS 2026. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, J. Wheelwright, O. Nina, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> 4th Multi-modal Aerial View Imagery Challenge: Translation - PBVS 2026. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, J. Wheelwright, O. Nina, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> 1st Hyperspectral Image Super-Resolution Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+    </div>
+    <div><i>T. De Kerf, R. E. Rivadeneira, <strong>L. T. Ramos</strong>, A. D. Sappa, S. Vanlanduit.</i></div>
+  </li>
+
+  <li>
+    <strong> 2nd Thermal Pedestrian Multiple Object Tracking Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+    </div>
+    <div><i>W. El Ahmar, <strong>L. T. Ramos</strong>, A. D. Sappa, R. Hammoud.</i></div>
+  </li>
+
+  <li>
+    <strong> 7th Thermal Image Super-Resolution Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+    </div>
+    <div><i>R. E. Rivadeneira, A. D. Sappa, <strong>L. T. Ramos</strong>, R. Hammoud, S. Wu, H. Zhong, Y. Wang, S. Zhao, D. Fan, Z. Li, X. Tang.</i></div>
+  </li>
+
+  <li>
+    <strong> Exploring Diffusion-generated Guidance for Thermal Image Super-resolution. WACV Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href="https://openaccess.thecvf.com/content/WACV2026W/RWS/html/Ramos_Exploring_Diffusion-generated_Guidance_for_Thermal_Image_Super-resolution_WACVW_2026_paper.html"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> K-Vehicles: A Remote Sensing Dataset for Vehicle Detection in Aerial Imagery. WACV Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href="https://openaccess.thecvf.com/content/WACV2026W/GeoCV/html/Ramos_K-Vehicles_A_Remote_Sensing_Dataset_for_Vehicle_Detection_in_Aerial_WACVW_2026_paper.html"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, E. Casas, C. Romero, F. Rivas-Echeverría.</i></div>
+  </li>
+
+  <li>
+    <strong> CARLA-Haze: A Synthetic Benchmark for Outdoor Image Dehazing. WACV Workshops 2026. </strong>
+    <div style="display: inline">
+        <a href="https://openaccess.thecvf.com/content/WACV2026W/WVAQ/html/Velesaca_CARLA-Haze_A_Synthetic_Benchmark_for_Outdoor_Image_Dehazing_WACVW_2026_paper.html"> [paper]</a>
+    </div>
+    <div><i>H. O. Velesaca, <strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> Dual-Branch ConvNeXt-Based Network with Attentional Fusion Decoding for Land Cover Classification Using Multispectral Imagery. IEEE SoutheastCon 2025. </strong>
+    <div style="display: inline">
+        <a href="https://doi.org/10.1109/SoutheastCon56624.2025.10971457"> [paper]</a>
+    </div>
+    <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
+  </li>
+
+  <li>
+    <strong> Success Cases and Lessons Learned After 20 Years of Oilfield Digitalization Efforts. SPE ATCE 2024. </strong>
+    <div style="display: inline">
+        <a href="https://doi.org/10.2118/220932-MS"> [paper]</a>
+    </div>
+    <div><i>L. Saputelli, J. Duran, F. Rivas, E. Casas, <strong>L. T. Ramos</strong>, C. Bravo, A. Chacon, C. Temizel, S. Mubarak, J. Chacon, A. Escorcia, M. Elred, S. Diaz, A. Yrigoyen, G. Moricca, M. Querales, C. Lopez.</i></div>
+  </li>
+
+</ul>
 
 # 🎖 Honors and Awards
 - *2026:* Research Excellence Recognition, Computer Vision Center, Universitat Autònoma de Barcelona, Spain  
