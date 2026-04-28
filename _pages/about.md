@@ -33,11 +33,14 @@ Research interests include:
 - *Apr 2026*: &nbsp;🚀 Started as Research Collaborator at Fairfield University, USA. 
 - *Mar 2026*: &nbsp;🌟 Nine papers accepted at CVPR Workshops 2026.  
 - *Feb 2026*: &nbsp;🥳 Awarded the "Teresa Mañé" PhD Mobility and Training Grant from the Computer Vision Center, Spain.  
+- *Feb 2026*: &nbsp;🏆 Received the "Research Excellence Recognition" from MSIAU Research Group at Computer Vision Center, Spain. 
 - *Jan 2026*: &nbsp;🌟 Three papers accepted at WACV Workshops 2026.  
 - *Nov 2025*: &nbsp;🎪 Organizing committee member, 22nd IEEE/CVF PBVS Workshop at CVPR 2026.  
+- *Oct 2025*: &nbsp;🏆 Received the "Research Excellence Recognition" from MSIAU Research Group at Computer Vision Center, Spain.
 - *Jul 2025*: &nbsp;🌟 Featured in the IEEE GRSS Student Member Spotlight. 
 - *Jan 2025*: &nbsp;🚀 Started as Research Associate at the University of Texas at Arlington, USA.  
 - *Dec 2023*: &nbsp;🎓 Arrived in Spain and officially started my PhD!!!
+- *Sep 2023*: &nbsp;🚀 Started as Research Engineer at Kauel Inc., Silicon Valley, USA. 
 - *Jun 2023*: &nbsp;📜 Earned my B.Sc. degree in Information Technology Engineering!
 - *Mar 2023*: &nbsp;🚀 Started as Trainee Engineer at Kauel Inc., Silicon Valley, USA. 
 - *Jan 2023*: &nbsp;🚀 Started as Research Assistant at Yachay Tech University, Ecuador.
