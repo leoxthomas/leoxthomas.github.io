@@ -49,7 +49,7 @@ Research interests include:
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**--->
 
 # 📝 Publications 
-
+## Journals
 <ul>
   
   <li>
@@ -99,6 +99,11 @@ Research interests include:
     </div>
     <div><i><strong>L. T. Ramos</strong>, E. Casas, C. Romero, F. Rivas-Echeverría, M. E. Morocho-Caymacela.</i></div>
   </li>
+</ul>
+
+## Conferences
+
+<ul>
 
   <li>
     <strong> A Parameter-efficient Convolutional Approach for Camouflaged Weed Detection in Multispectral Aerial Imagery. CVPR Workshops 2026. </strong>
@@ -221,7 +226,7 @@ Research interests include:
 - *2025:* Research Excellence Recognition, Yachay Tech University, Ecuador  
 - *2019-2023:* Undergraduate Scholarship, Yachay Tech University, Ecuador
 
-# 💼 Research & Industry Experience
+# 💼 Experience
 - *Sep 2023 - Present*, Kauel Inc. (USA), Research Engineer.  
 - *Apr 2026 - Present*, Fairfield University (USA), Research Collaborator. Supervisor: [Sidike Paheding, PhD](https://www.fairfield.edu/faculty-staff/sidike-paheding/)  
 - *Jan 2025 - Dec 2025*, University of Texas at Arlington (USA), Research Associate. Supervisor: [Francklin Rivas-Echeverría, PhD](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf)  
