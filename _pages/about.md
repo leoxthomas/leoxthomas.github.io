@@ -61,14 +61,14 @@ Research interests include:
 
 # 💼 Research & Industry Experience
 - *Sep 2023 - Present*, Kauel Inc. (USA), Research Engineer.  
-- *Apr 2026 - Present*, Fairfield University (USA), Research Collaborator. Supervisor: [Sidike Paheding](https://www.fairfield.edu/faculty-staff/sidike-paheding/)  
-- *Jan 2025 - Dec 2025*, University of Texas at Arlington (USA), Research Associate. Supervisor: [Francklin Rivas-Echeverría](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf)  
+- *Apr 2026 - Present*, Fairfield University (USA), Research Collaborator. Supervisor: [Sidike Paheding, PhD](https://www.fairfield.edu/faculty-staff/sidike-paheding/)  
+- *Jan 2025 - Dec 2025*, University of Texas at Arlington (USA), Research Associate. Supervisor: [Francklin Rivas-Echeverría, PhD](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf)  
 - *Mar 2023 - Aug 2023*, Kauel Inc. (USA), Trainee Engineer. Supervisor: [Edmundo Casas](https://www.linkedin.com/in/edmundocasas/), CEO, Kauel  
-- *Jan 2023 - Mar 2023*, Yachay Tech University (Ecuador), Research Assistant. Supervisors: [Francklin Rivas-Echeverría](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf) and [Eugenio Morocho](https://ec.linkedin.com/in/eugenio-morocho-cayamcela)  
+- *Jan 2023 - Mar 2023*, Yachay Tech University (Ecuador), Research Assistant. Supervisors: [Francklin Rivas-Echeverría, PhD](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf) and [Eugenio Morocho, PhD](https://ec.linkedin.com/in/eugenio-morocho-cayamcela)  
 - *Feb 2022 - Sep 2022*, TALOV Inc. (USA), Research Intern. Supervisor: [Hugo Jácome-Andrade](https://es.linkedin.com/in/hugofjacomea), CEO, TALOV  
 
 # 📖 Education
-- *Dec 2023 - Present*, PhD in Computer Science, Computer Vision Center, Universitat Autònoma de Barcelona, Spain  
+- *Dec 2023 - Present*, PhD in Computer Science, Computer Vision Center, Universitat Autònoma de Barcelona, Spain. Advisor: [Angel D. Sappa, PhD](https://www.linkedin.com/in/angel-sappa-61532b17)
 - *Jan 2018 - Jun 2023*, B.Sc. in Information Technology Engineering, Yachay Tech University, Ecuador  
 
 # 💰 Grants and Funded Projects
