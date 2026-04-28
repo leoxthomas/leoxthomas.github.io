@@ -30,13 +30,13 @@ Research interests include:
 
 # 🔥 News
 
-- *2026.04*: &nbsp;🚀 Started as Research Collaborator at Fairfield University, USA. 
-- *2026.03*: &nbsp;🌟 Nine papers accepted at CVPR Workshops 2026.  
-- *2026.02*: &nbsp;🥳 Awarded the "Teresa Mañé" PhD Fellowship, Computer Vision Center, Spain.  
-- *2026.01*: &nbsp;🌟 Three papers accepted at WACV Workshops 2026.  
-- *2025.11*: &nbsp;🎪 Organizing committee member, 22nd IEEE/CVF PBVS Workshop at CVPR 2026.  
-- *2025.01*: &nbsp;🚀 Started as Research Associate at the University of Texas at Arlington, USA.  
-- *2023.12*: &nbsp;🎓 Started PhD in Computer Science.  
+- *Apr 2026*: &nbsp;🚀 Started as Research Collaborator at Fairfield University, USA. 
+- *Mar 2026*: &nbsp;🌟 Nine papers accepted at CVPR Workshops 2026.  
+- *Feb 2026*: &nbsp;🥳 Awarded the "Teresa Mañé" PhD Fellowship, Computer Vision Center, Spain.  
+- *Jan 2026*: &nbsp;🌟 Three papers accepted at WACV Workshops 2026.  
+- *Nov 2025*: &nbsp;🎪 Organizing committee member, 22nd IEEE/CVF PBVS Workshop at CVPR 2026.  
+- *Jan 2025*: &nbsp;🚀 Started as Research Associate at the University of Texas at Arlington, USA.  
+- *Dec 2023*: &nbsp;🎓 Started PhD in Computer Science (first time in Spain!).  
 
 # 📝 Publications 
 ## Journals
