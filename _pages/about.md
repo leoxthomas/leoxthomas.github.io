@@ -226,8 +226,8 @@ Research interests include:
 - *2019-2023:* Undergraduate Scholarship, Yachay Tech University, Ecuador
 
 # 💼 Experience
-- *Sep 2023 - Present*, Kauel Inc. (USA), Research Engineer.  
 - *Apr 2026 - Present*, Fairfield University (USA), Research Collaborator. Supervisor: [Sidike Paheding, PhD](https://www.fairfield.edu/faculty-staff/sidike-paheding/)  
+- *Sep 2023 - Present*, Kauel Inc. (USA), Research Engineer (part-time).  
 - *Jan 2025 - Dec 2025*, University of Texas at Arlington (USA), Research Associate. Supervisor: [Francklin Rivas-Echeverría, PhD](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf)  
 - *Mar 2023 - Aug 2023*, Kauel Inc. (USA), Trainee Engineer. Supervisor: [Edmundo Casas](https://www.linkedin.com/in/edmundocasas/), CEO, Kauel  
 - *Jan 2023 - Mar 2023*, Yachay Tech University (Ecuador), Research Assistant. Supervisors: [Francklin Rivas-Echeverría, PhD](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf) and [Eugenio Morocho, PhD](https://ec.linkedin.com/in/eugenio-morocho-cayamcela)  
