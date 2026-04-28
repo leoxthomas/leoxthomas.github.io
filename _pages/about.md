@@ -236,7 +236,7 @@ Research interests include:
 # 📋 Academic Service
 - Workshop organization: 22nd IEEE/CVF PBVS Workshop (CVPR 2026) – Organizing Committee Member, Challenge Co-chair  
 - Conference reviewer: CVPR (2025, 2026), NeurIPS (2024)  
-- Journal reviewer: IEEE TGRS, ISPRS JPRS, IEEE OJ-CS, Pattern Recognition, Pattern Recognition Letters, Medical Image Analysis, Neurocomputing, Computers and Electronics in Agriculture, Computerized Medical Imaging and Graphics, IEEE TSMC
+- Journal reviewer: IEEE TGRS, ISPRS P&RS, IEEE OJ-CS, Pattern Recognition, Pattern Recognition Letters, Medical Image Analysis, Neurocomputing, Computers and Electronics in Agriculture, Computerized Medical Imaging and Graphics, IEEE TSMC
 
 # 🌐 Languages
 - Spanish: Native  
