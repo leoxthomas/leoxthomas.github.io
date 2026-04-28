@@ -29,8 +29,15 @@ Research interests include:
 🩺 Medical imaging
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2026.04*: &nbsp;🚀 Started as Research Collaborator at Fairfield University, USA. 
+- *2026.03*: &nbsp;🌟 Nine papers accepted at CVPR Workshops 2026.  
+- *2026.02*: &nbsp;🥳 Awarded the "Teresa Mañé" PhD Fellowship, Computer Vision Center, Spain.  
+- *2026.01*: &nbsp;🌟 Three papers accepted at WACV Workshops 2026.  
+- *2025.11*: &nbsp;🎪 Organizing committee member, 22nd IEEE/CVF PBVS Workshop at CVPR 2026.  
+- *2025.01*: &nbsp;🚀 Started as Research Associate at the University of Texas at Arlington, USA.  
+- *2023.12*: &nbsp;🎓 Started PhD in Computer Science.  
+
 <!--
 # 📝 Publications 
 
