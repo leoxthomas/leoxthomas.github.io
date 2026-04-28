@@ -36,7 +36,7 @@ Research interests include:
 - *Jan 2026*: &nbsp;🌟 Three papers accepted at WACV Workshops 2026.  
 - *Nov 2025*: &nbsp;🎪 Organizing committee member, 22nd IEEE/CVF PBVS Workshop at CVPR 2026.  
 - *Jan 2025*: &nbsp;🚀 Started as Research Associate at the University of Texas at Arlington, USA.  
-- *Dec 2023*: &nbsp;🎓 Started PhD in Computer Science (official arrival in Spain!).
+- *Dec 2023*: &nbsp;🎓 Arrived in Spain and officially started my PhD!!!
 
 # 📝 Publications 
 ## Journals
