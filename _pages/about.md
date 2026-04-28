@@ -17,15 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+PhD student and researcher in computer vision and deep learning. Experience in collaborating with multidisciplinary teams across Europe, the Middle East, Asia, and the Americas, including researchers and experts from Dubai Police, the Environment Agency Abu Dhabi, Halliburton, Saudi Aramco, Honeywell, the Air Force Research Laboratory, and NASA Jet Propulsion Laboratory.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Research interests include:
 
+🛰️ Remote sensing  
+🌍 Earth observation  
+🚀 Space exploration  
+🪐 Planetary science  
+🧩 Multimodal and multispectral data analysis  
+🩺 Medical imaging
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+<!--
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -40,19 +46,43 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**--->
+
+# 📝 Publications 
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026:* Research Excellence Recognition, Computer Vision Center, Universitat Autònoma de Barcelona, Spain  
+- *2025:* Research Excellence Recognition, Kauel Inc., Silicon Valley, USA  
+- *2025:* Research Excellence Recognition, Computer Vision Center, Universitat Autònoma de Barcelona, Spain  
+- *2025:* Research Excellence Recognition, Yachay Tech University, Ecuador  
+- *2019-2023:* Undergraduate Scholarship, Yachay Tech University, Ecuador
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💼 Research & Industry Experience
+- *Sep 2023 - Present*, Kauel Inc. (USA), Research Engineer.  
+- *Apr 2026 - Present*, Fairfield University (USA), Research Collaborator. Supervisor: [Sidike Paheding](https://www.fairfield.edu/faculty-staff/sidike-paheding/)  
+- *Jan 2025 - Dec 2025*, University of Texas at Arlington (USA), Research Associate. Supervisor: [Francklin Rivas-Echeverría](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf)  
+- *Mar 2023 - Aug 2023*, Kauel Inc. (USA), Trainee Engineer. Supervisor: [Edmundo Casas](https://www.linkedin.com/in/edmundocasas/), CEO, Kauel  
+- *Jan 2023 - Mar 2023*, Yachay Tech University (Ecuador), Research Assistant. Supervisors: [Francklin Rivas-Echeverría](https://www.uta.edu/academics/faculty/profile?username=rivasecheverriaf) and [Eugenio Morocho](https://ec.linkedin.com/in/eugenio-morocho-cayamcela)  
+- *Feb 2022 - Sep 2022*, TALOV Inc. (USA), Research Intern. Supervisor: [Hugo Jácome-Andrade](https://es.linkedin.com/in/hugofjacomea), CEO, TALOV  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
+- *Dec 2023 - Present*, PhD in Computer Science, Computer Vision Center, Universitat Autònoma de Barcelona, Spain  
+- *Jan 2018 - Jun 2023*, B.Sc. in Information Technology Engineering, Yachay Tech University, Ecuador  
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💰 Grants and Funded Projects
+- *Mar 2026 - Present*, “Teresa Mañé” PhD Mobility and Training Grant, Computer Vision Center, Universitat Autònoma de Barcelona, Spain 
+- *Sep 2025 - Sep 2028*, Scene-aware Processing and Integration for Digital Environment Representations (SPI-DER), Ministry of Science and Innovation, Spain  
+- *Jul 2024 - Jul 2028*, Advancing Camouflaged Object Detection with a Cost-Effective Cross-Spectral Vision System (ACOD-CS), Air Force Office of Scientific Research (AFOSR), USA  
+
+# 📋 Academic Service
+- Workshop organization: 22nd IEEE/CVF PBVS Workshop (CVPR 2026) – Organizing Committee Member, Challenge Co-chair  
+- Conference reviewer: CVPR (2025, 2026), NeurIPS (2024)  
+- Journal reviewer: IEEE TGRS, ISPRS JPRS, IEEE OJ-CS, Pattern Recognition, Pattern Recognition Letters, Medical Image Analysis, Neurocomputing, Computers and Electronics in Agriculture, Computerized Medical Imaging and Graphics, IEEE TSMC
+
+# 🌐 Languages
+- Spanish: Native  
+- English: Advanced  
+- Italian: Elementary  
+- Catalan: Beginner  
