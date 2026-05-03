@@ -187,7 +187,9 @@ Research interests include:
   <li>
     <strong> K-Vehicles: A Remote Sensing Dataset for Vehicle Detection in Aerial Imagery. WACV Workshops 2026. </strong>
     <div style="display: inline">
+        <a href="https://leoxthomas.github.io/CARLA-Haze/"> [project page]</a>
         <a href="https://openaccess.thecvf.com/content/WACV2026W/GeoCV/html/Ramos_K-Vehicles_A_Remote_Sensing_Dataset_for_Vehicle_Detection_in_Aerial_WACVW_2026_paper.html"> [paper]</a>
+        <a href="https://github.com/leoxthomas/K-Vehicles"> [dataset]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, E. Casas, C. Romero, F. Rivas-Echeverría.</i></div>
   </li>
@@ -196,6 +198,7 @@ Research interests include:
     <strong> CARLA-Haze: A Synthetic Benchmark for Outdoor Image Dehazing. WACV Workshops 2026. </strong>
     <div style="display: inline">
         <a href="https://openaccess.thecvf.com/content/WACV2026W/WVAQ/html/Velesaca_CARLA-Haze_A_Synthetic_Benchmark_for_Outdoor_Image_Dehazing_WACVW_2026_paper.html"> [paper]</a>
+      <a href="https://github.com/leoxthomas/CARLA-Haze"> [dataset]</a>
     </div>
     <div><i>H. O. Velesaca, <strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
   </li>
