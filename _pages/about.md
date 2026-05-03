@@ -95,6 +95,7 @@ Research interests include:
     <strong> A Study of ConvNeXt Architectures for Enhanced Image Captioning. IEEE Access 2024. </strong>
     <div style="display: inline">
         <a href="https://doi.org/10.1109/ACCESS.2024.3356551"> [paper]</a>
+        <a href="https://github.com/leoxthomas/ConvNeXt-for-Image-Captioning"> [code]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, E. Casas, C. Romero, F. Rivas-Echeverría, M. E. Morocho-Caymacela.</i></div>
   </li>
@@ -108,6 +109,7 @@ Research interests include:
     <strong> A Parameter-efficient Convolutional Approach for Camouflaged Weed Detection in Multispectral Aerial Imagery. CVPR Workshops 2026. </strong>
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2603.06655"> [paper]</a>
+        <a href="https://github.com/leoxthomas/fcbnet"> [code]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
   </li>
@@ -116,6 +118,7 @@ Research interests include:
     <strong> Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection. CVPR Workshops 2026. </strong>
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2603.13357"> [paper]</a>
+        <a href="https://github.com/plsuarez/Bi-CamoDiffusion"> [code]</a>
     </div>
     <div><i>P. Suárez, <strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
   </li>
@@ -124,6 +127,7 @@ Research interests include:
     <strong> MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery. CVPR Workshops 2026. </strong>
     <div style="display: inline">
         <a href="https://arxiv.org/abs/2602.08112"> [paper]</a>
+        <a href="https://github.com/MAIN-Lab/MMLS_v2"> [dataset]</a>
     </div>
     <div><i>S. Paheding, A. Reyes-Angulo, <strong>L. T. Ramos</strong>, A. D. Sappa, A. Rajaneesh, H. P. B., K. S. Kumar, T. Oommen.</i></div>
   </li>
@@ -187,7 +191,6 @@ Research interests include:
   <li>
     <strong> K-Vehicles: A Remote Sensing Dataset for Vehicle Detection in Aerial Imagery. WACV Workshops 2026. </strong>
     <div style="display: inline">
-        <a href="https://leoxthomas.github.io/CARLA-Haze/"> [project page]</a>
         <a href="https://openaccess.thecvf.com/content/WACV2026W/GeoCV/html/Ramos_K-Vehicles_A_Remote_Sensing_Dataset_for_Vehicle_Detection_in_Aerial_WACVW_2026_paper.html"> [paper]</a>
         <a href="https://github.com/leoxthomas/K-Vehicles"> [dataset]</a>
     </div>
@@ -197,7 +200,8 @@ Research interests include:
   <li>
     <strong> CARLA-Haze: A Synthetic Benchmark for Outdoor Image Dehazing. WACV Workshops 2026. </strong>
     <div style="display: inline">
-        <a href="https://openaccess.thecvf.com/content/WACV2026W/WVAQ/html/Velesaca_CARLA-Haze_A_Synthetic_Benchmark_for_Outdoor_Image_Dehazing_WACVW_2026_paper.html"> [paper]</a>
+      <a href="https://leoxthomas.github.io/CARLA-Haze/"> [project page]</a>
+      <a href="https://openaccess.thecvf.com/content/WACV2026W/WVAQ/html/Velesaca_CARLA-Haze_A_Synthetic_Benchmark_for_Outdoor_Image_Dehazing_WACVW_2026_paper.html"> [paper]</a>
       <a href="https://github.com/leoxthomas/CARLA-Haze"> [dataset]</a>
     </div>
     <div><i>H. O. Velesaca, <strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
