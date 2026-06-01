@@ -109,7 +109,7 @@ Research interests include:
   <li>
     <strong> A Parameter-efficient Convolutional Approach for Camouflaged Weed Detection in Multispectral Aerial Imagery. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href="https://arxiv.org/abs/2603.06655"> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/SVC/html/Ramos_A_Parameter-efficient_Convolutional_Approach_for_Camouflaged_Weed_Detection_in_Multispectral_CVPRW_2026_paper.html"> [paper]</a>
         <a href="https://github.com/leoxthomas/fcbnet"> [code]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
@@ -118,7 +118,7 @@ Research interests include:
   <li>
     <strong> Bi-CamoDiffusion: A Boundary-informed Diffusion Approach for Camouflaged Object Detection. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href="https://arxiv.org/abs/2603.13357"> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/SVC/html/Suarez_Bi-CamoDiffusion_A_Boundary-informed_Diffusion_Approach_for_Camouflaged_Object_Detection_CVPRW_2026_paper.html"> [paper]</a>
         <a href="https://github.com/plsuarez/Bi-CamoDiffusion"> [code]</a>
     </div>
     <div><i>P. Suárez, <strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
@@ -127,7 +127,7 @@ Research interests include:
   <li>
     <strong> MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href="https://arxiv.org/abs/2602.08112"> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/AI4Space/html/Paheding_MMLSv2_A_Multimodal_Dataset_for_Martian_Landslide_Detection_in_Remote_CVPRW_2026_paper.html"> [paper]</a>
         <a href="https://github.com/MAIN-Lab/MMLS_v2"> [dataset]</a>
     </div>
     <div><i>S. Paheding, A. Reyes-Angulo, <strong>L. T. Ramos</strong>, A. D. Sappa, A. Rajaneesh, H. P. B., K. S. Kumar, T. Oommen.</i></div>
@@ -136,7 +136,7 @@ Research interests include:
   <li>
     <strong> 1st Mars Landslide Segmentation Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_1st_Mars_Landslide_Segmentation_Challenge_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, A. Reyes-Angulo, S. Paheding, A. D. Sappa.</i></div>
   </li>
@@ -144,7 +144,7 @@ Research interests include:
   <li>
     <strong> 5th Multi-modal Aerial View Imagery Challenge: Classification - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_5th_Multi-modal_Aerial_View_Imagery_Challenge_Classification_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, J. Wheelwright, O. Nina, A. D. Sappa.</i></div>
   </li>
@@ -152,7 +152,7 @@ Research interests include:
   <li>
     <strong> 4th Multi-modal Aerial View Imagery Challenge: Translation - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_4th_Multi-Modal_Aerial_View_Imagery_Challenge_Translation_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, J. Wheelwright, O. Nina, A. D. Sappa.</i></div>
   </li>
@@ -160,7 +160,7 @@ Research interests include:
   <li>
     <strong> 1st Hyperspectral Image Super-Resolution Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/De_Kerf_1st_Hyperspectral_Image_Super-Resolution_Challenge_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
     </div>
     <div><i>T. De Kerf, R. E. Rivadeneira, <strong>L. T. Ramos</strong>, A. D. Sappa, S. Vanlanduit.</i></div>
   </li>
@@ -168,7 +168,7 @@ Research interests include:
   <li>
     <strong> 2nd Thermal Pedestrian Multiple Object Tracking Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ahmar_2nd_Thermal_Pedestrian_Multiple_Object_Tracking_Challenge_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
     </div>
     <div><i>W. El Ahmar, <strong>L. T. Ramos</strong>, A. D. Sappa, R. Hammoud.</i></div>
   </li>
@@ -176,7 +176,7 @@ Research interests include:
   <li>
     <strong> 7th Thermal Image Super-Resolution Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Rivadeneira_7th_Thermal_Image_Super-Resolution_Challenge_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
     </div>
     <div><i>R. E. Rivadeneira, A. D. Sappa, <strong>L. T. Ramos</strong>, R. Hammoud, S. Wu, H. Zhong, Y. Wang, S. Zhao, D. Fan, Z. Li, X. Tang.</i></div>
   </li>
