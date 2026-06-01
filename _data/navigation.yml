@@ -26,3 +26,6 @@ main:
     
   - title: "Languages"
     url: "/#-languages"
+
+  - title: "CV"
+    url: "/assets/Leo_Thomas_Ramos_CV.pdf"
