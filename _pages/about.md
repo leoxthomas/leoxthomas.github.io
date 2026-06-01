@@ -137,6 +137,7 @@ Research interests include:
     <strong> 1st Mars Landslide Segmentation Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
         <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_1st_Mars_Landslide_Segmentation_Challenge_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
+        <a href="https://github.com/MAIN-Lab/MMLS_v2"> [dataset]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, A. Reyes-Angulo, S. Paheding, A. D. Sappa.</i></div>
   </li>
@@ -161,6 +162,7 @@ Research interests include:
     <strong> 1st Hyperspectral Image Super-Resolution Challenge - PBVS 2026. CVPR Workshops 2026. </strong>
     <div style="display: inline">
         <a href="https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/De_Kerf_1st_Hyperspectral_Image_Super-Resolution_Challenge_-_PBVS_2026_CVPRW_2026_paper.html"> [paper]</a>
+        <a href="https://zenodo.org/records/18171738"> [dataset]</a>
     </div>
     <div><i>T. De Kerf, R. E. Rivadeneira, <strong>L. T. Ramos</strong>, A. D. Sappa, S. Vanlanduit.</i></div>
   </li>
