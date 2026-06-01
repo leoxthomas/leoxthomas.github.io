@@ -29,3 +29,4 @@ main:
 
   - title: "CV"
     url: "/assets/Leo_Thomas_Ramos_CV.pdf"
+    target: _self
