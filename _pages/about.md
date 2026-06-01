@@ -248,7 +248,7 @@ Research interests include:
 - *Jan 2018 - Jun 2023*, B.Sc. in Information Technology Engineering, Yachay Tech University, Ecuador  
 
 # 💰 Grants and Funded Projects
-- *May 2026 - Present*, IEEE Computational Intelligence Society Graduate Student Research Grant, IEEE Computational Intelligence Society, USA.
+- *May 2026 - Present*, IEEE Computational Intelligence Society Graduate Student Research Grant, IEEE Computational Intelligence Society, USA
 - *Mar 2026 - Present*, “Teresa Mañé” PhD Mobility and Training Grant, Computer Vision Center, Universitat Autònoma de Barcelona, Spain 
 - *Sep 2025 - Sep 2028*, Scene-aware Processing and Integration for Digital Environment Representations (SPI-DER), Ministry of Science and Innovation, Spain  
 - *Jul 2024 - Jul 2028*, Advancing Camouflaged Object Detection with a Cost-Effective Cross-Spectral Vision System (ACOD-CS), Air Force Office of Scientific Research (AFOSR), USA  
