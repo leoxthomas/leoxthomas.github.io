@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: "/cv/"
+    url: "/assets/Leo_Thomas_Ramos_CV.pdf"
 
   - title: "About Me"
     url: "/#about-me"
