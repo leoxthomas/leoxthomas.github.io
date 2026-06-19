@@ -33,7 +33,7 @@ Research interests include:
 - *May 2026*: &nbsp;🥳 Awarded the IEEE Computational Intelligence Society Graduate Student Research Grant.
 - *Apr 2026*: &nbsp;🚀 Started as Research Collaborator at Fairfield University, USA. 
 - *Mar 2026*: &nbsp;🌟 Nine papers accepted at CVPR Workshops 2026.  
-- *Feb 2026*: &nbsp;🥳 Awarded the "Teresa Mañé" PhD Mobility and Training Grant from the Computer Vision Center, Spain.  
+- *Feb 2026*: &nbsp;🥳 Awarded the "Teresa Mañé" Research Fellowship from the Computer Vision Center, Spain.  
 - *Feb 2026*: &nbsp;🏆 Received the "Research Excellence Recognition" from MSIAU Research Group at Computer Vision Center, Spain. 
 - *Jan 2026*: &nbsp;🌟 Three papers accepted at WACV Workshops 2026.  
 - *Nov 2025*: &nbsp;🎪 Organizing committee member, 22nd IEEE/CVF PBVS Workshop at CVPR 2026.  
@@ -249,7 +249,7 @@ Research interests include:
 
 # 💰 Grants and Funded Projects
 - *May 2026 - Present*, IEEE Computational Intelligence Society Graduate Student Research Grant, IEEE Computational Intelligence Society, USA
-- *Mar 2026 - Present*, “Teresa Mañé” PhD Mobility and Training Grant, Computer Vision Center, Universitat Autònoma de Barcelona, Spain 
+- *Mar 2026 - Present*, “Teresa Mañé” Research Fellowship, Computer Vision Center, Universitat Autònoma de Barcelona, Spain 
 - *Sep 2025 - Sep 2028*, Scene-aware Processing and Integration for Digital Environment Representations (SPI-DER), Ministry of Science and Innovation, Spain  
 - *Jul 2024 - Jul 2028*, Advancing Camouflaged Object Detection with a Cost-Effective Cross-Spectral Vision System (ACOD-CS), Air Force Office of Scientific Research (AFOSR), USA  
 
