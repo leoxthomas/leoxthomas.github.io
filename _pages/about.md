@@ -23,9 +23,11 @@ Research interests include:
 
 🛰️ Remote sensing  
 🌍 Earth observation  
+🏞️ Environmental monitoring
 🚀 Space exploration  
-🪐 Planetary science  
-🧩 Multimodal and multispectral data analysis  
+🪐 Planetary remote sensing  
+🧩 Multimodal and multispectral data analysis
+📹 Surveillance and monitoring
 🩺 Medical imaging
 
 # 🔥 News
