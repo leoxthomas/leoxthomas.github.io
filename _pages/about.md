@@ -58,6 +58,7 @@ Research interests include:
     <strong> Multi-encoder ConvNeXt Network with Smooth Attentional Feature Fusion for Multispectral Semantic Segmentation. Neurocomputing 2026. </strong>
     <div style="display: inline">
         <a href="https://doi.org/10.1016/j.neucom.2026.133533"> [paper]</a>
+        <a href="https://github.com/leoxthomas/mecsafnet"> [code]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
   </li>
