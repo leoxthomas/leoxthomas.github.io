@@ -72,6 +72,7 @@ Research interests include:
     <strong> Leveraging U-Net and Selective Feature Extraction for Land Cover Classification Using Remote Sensing Imagery. Scientific Reports 2025. </strong>
     <div style="display: inline">
         <a href="https://doi.org/10.1038/s41598-024-84795-1"> [paper]</a>
+        <a href="https://github.com/leoxthomas/skunet"> [code]</a>
     </div>
     <div><i><strong>L. T. Ramos</strong>, A. D. Sappa.</i></div>
   </li>
