@@ -21,13 +21,13 @@ PhD student and researcher in computer vision and deep learning. Experience in c
 
 Research interests include:
 
-🛰️ Remote sensing  
-🌍 Earth observation  
-🏞️ Environmental monitoring
-🚀 Space exploration  
-🪐 Planetary remote sensing  
-🧩 Multimodal and multispectral data analysis
-📹 Surveillance and monitoring
+🛰️ Remote sensing  \
+🌍 Earth observation  \
+🏞️ Environmental monitoring\
+🚀 Space exploration\
+🪐 Planetary remote sensing  \
+🧩 Multimodal and multispectral data analysis\
+📹 Surveillance and monitoring\
 🩺 Medical imaging
 
 # 🔥 News
