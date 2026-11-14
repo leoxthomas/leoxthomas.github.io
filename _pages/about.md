@@ -254,8 +254,9 @@ Research interests include:
 # 💰 Grants and Funded Projects
 - *May 2026 - Present*, IEEE Computational Intelligence Society Graduate Student Research Grant, IEEE Computational Intelligence Society, USA
 - *Mar 2026 - Present*, “Teresa Mañé” Research Fellowship, Computer Vision Center, Universitat Autònoma de Barcelona, Spain 
-- *Sep 2025 - Sep 2028*, Scene-aware Processing and Integration for Digital Environment Representations (SPI-DER), Ministry of Science and Innovation, Spain  
-- *Jul 2024 - Jul 2028*, Advancing Camouflaged Object Detection with a Cost-Effective Cross-Spectral Vision System (ACOD-CS), Air Force Office of Scientific Research (AFOSR), USA  
+- *Sep 2025 - Aug 2028*, Scene-aware Processing and Integration for Digital Environment Representations (SPI-DER), Ministry of Science and Innovation, Spain  
+- *Jul 2024 - Jun 2028*, Advancing Camouflaged Object Detection with a Cost-Effective Cross-Spectral Vision System (ACOD-CS), Air Force Office of Scientific Research (AFOSR), USA
+- *Sep 2022- Aug 2025*, Boosting Earth Observation by Multimodal Fusion (BEYOND), Ministry of Science and Innovation, Spain 
 
 # 📋 Academic Service
 - Workshop organization: 22nd IEEE/CVF PBVS Workshop (CVPR 2026) – Organizing Committee Member, Challenge Co-chair  
